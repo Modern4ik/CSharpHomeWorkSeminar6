@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\bin\Debug\net6.0\Task41_PositiveNumbersCountInArray.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\bin\Debug\net6.0\Task41_PositiveNumbersCountInArray.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\bin\Debug\net6.0\Task41_PositiveNumbersCountInArray.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\bin\Debug\net6.0\Task41_PositiveNumbersCountInArray.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\bin\Debug\net6.0\Task41_PositiveNumbersCountInArray.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\refint\Task41_PositiveNumbersCountInArray.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\Task41_PositiveNumbersCountInArray.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task41_PositiveNumbersCountInArray\obj\Debug\net6.0\ref\Task41_PositiveNumbersCountInArray.dll
