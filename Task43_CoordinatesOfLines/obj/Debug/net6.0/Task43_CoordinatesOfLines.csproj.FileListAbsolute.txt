@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\bin\Debug\net6.0\Task43_CoordinatesOfLines.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\bin\Debug\net6.0\Task43_CoordinatesOfLines.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\bin\Debug\net6.0\Task43_CoordinatesOfLines.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\bin\Debug\net6.0\Task43_CoordinatesOfLines.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\bin\Debug\net6.0\Task43_CoordinatesOfLines.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\refint\Task43_CoordinatesOfLines.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\Task43_CoordinatesOfLines.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar6\Task43_CoordinatesOfLines\obj\Debug\net6.0\ref\Task43_CoordinatesOfLines.dll
